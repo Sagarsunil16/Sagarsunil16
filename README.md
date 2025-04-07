@@ -3,7 +3,7 @@
 
 I’m a dedicated full-stack developer with expertise in designing and deploying scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). A 2023 BCA graduate from Kerala University, I enhanced my skills through a rigorous MERN bootcamp and have since delivered impactful projects. I thrive on solving complex problems, writing efficient code, and collaborating to build high-quality solutions.
 
-📍 Kochi, India | ✉️ [sagarsunil16@gmail.com](mailto:sagarsunil16@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/sagarsunil) | 📱 +91 9061710075  
+📍 Kochi, India | ✉️ [sagarsunil16@gmail.com](mailto:sagarsunil16@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/sagarsunil)  
 
 ---
 
