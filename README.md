@@ -30,7 +30,7 @@ A full-stack platform for salon discovery and appointment booking with real-time
 An e-commerce solution for sneaker enthusiasts with admin and user functionalities.  
 - **Technologies**: JavaScript, Node.js, Express.js, MongoDB Atlas, Razorpay API, AWS, Nginx  
 - **Features**: Product management dashboard, secure payment integration, order tracking, referral system  
-- **Repository**: [github.com/Sagarsunil16/sneakerhead](https://github.com/Sagarsunil16/sneakerhead)  
+- **Repository**: [github.com/Sagarsunil16/sneakerhead](https://github.com/Sagarsunil16/Sneakerhead---An-Ecommerce-Project)  
 
 ---
 
