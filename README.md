@@ -23,7 +23,7 @@ I’m a dedicated full-stack developer with expertise in designing and deploying
 A full-stack platform for salon discovery and appointment booking with real-time features.  
 - **Technologies**: React.js, Node.js, TypeScript, Express.js, MongoDB Atlas, Redux, WebRTC, Socket.io, Razorpay API  
 - **Features**: Location-based search, real-time chat/video consultations, secure payments, JWT authentication  
-- **Repository**: [github.com/Sagarsunil16/scissors](https://github.com/Sagarsunil16/scissors)  
+- **Repository**: [github.com/Sagarsunil16/scissors](https://github.com/Sagarsunil16/Scissors---A-salon-Service)  
 
 ### Sneakerhead - E-commerce Platform  
 *September 2024*  
