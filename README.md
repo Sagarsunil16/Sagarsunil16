@@ -1,63 +1,58 @@
 # Sagar Sunil  
-### MERN Stack Developer  
+### Full-Stack Engineer  
 
-I’m a dedicated full-stack developer with expertise in designing and deploying scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). A 2023 BCA graduate from Kerala University, I enhanced my skills through a rigorous MERN bootcamp and have since delivered impactful projects. I thrive on solving complex problems, writing efficient code, and collaborating to build high-quality solutions.
+I’m a results-driven Full-Stack Engineer skilled in building scalable, SEO-optimized web applications using Next.js and the MERN stack. I specialize in designing maintainable backend systems using Clean Architecture, the Repository Pattern, and rapid API generation with PostGraphile. By integrating agentic AI coding workflows into my daily environment, I consistently increase development speed and deliver high-quality, bug-free features.
 
 📍 Kochi, India | ✉️ [sagarsunil16@gmail.com](mailto:sagarsunil16@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/sagarsunil)  
 
 ---
 
-## Skills  
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Redux  
-- **Backend**: Node.js, Express.js  
-- **Databases**: MongoDB (Atlas, Mongoose), MySQL  
-- **Tools & Platforms**: Git, GitHub, AWS, Nginx  
-- **APIs & Libraries**: Razorpay API, WebRTC, Socket.io, JWT, Google OAuth  
+## 🛠️ Technical Skills  
+- **Frontend**: Next.js, React, Redux, JavaScript, TypeScript, HTML, CSS  
+- **Backend**: Node.js, Express.js, GraphQL, PostGraphile, REST APIs  
+- **Databases**: MongoDB (Atlas, Mongoose), PostgreSQL, MySQL  
+- **Architecture & Patterns**: Clean Architecture, MVC, Repository Pattern, Event-Driven  
+- **Tools & Platforms**: Git, GitHub, AWS, Nginx, Agentic AI Coding Environments (Claude, Gemini)  
+- **Integrations**: Stripe, WebRTC, Socket.io, Webhooks, JWT, Google OAuth  
 
 ---
 
-## Key Projects  
+## 💼 Professional Experience  
 
-### Scissors - Salon Service & Booking Platform  
-*February 2025*  
-A full-stack platform for salon discovery and appointment booking with real-time features.  
-- **Technologies**: React.js, Node.js, TypeScript, Express.js, MongoDB Atlas, Redux, WebRTC, Socket.io, Razorpay API  
-- **Features**: Location-based search, real-time chat/video consultations, secure payments, JWT authentication  
-- **Repository**: [github.com/Sagarsunil16/scissors](https://github.com/Sagarsunil16/Scissors---A-salon-Service)  
+### Junior Software Engineer | Packapeer Academy Private Limited
+*September 2025 – April 2026*  
+- Engineered robust full-stack applications, successfully delivering **10+ new features** with comprehensive dev testing to ensure zero-bug releases.  
+- Architected scalable backend services strictly adhering to **Clean Architecture** principles and the **Repository Pattern**.  
+- Streamlined database-to-API workflows utilizing **PostGraphile** over PostgreSQL, reducing API development time by **70%**.  
+- Configured real-time WebRTC communication and robust Webhooks for asynchronous third-party events.  
 
-### Sneakerhead - E-commerce Platform  
-*September 2024*  
-An e-commerce solution for sneaker enthusiasts with admin and user functionalities.  
-- **Technologies**: JavaScript, Node.js, Express.js, MongoDB Atlas, Razorpay API, AWS, Nginx  
-- **Features**: Product management dashboard, secure payment integration, order tracking, referral system  
-- **Repository**: [github.com/Sagarsunil16/sneakerhead](https://github.com/Sagarsunil16/Sneakerhead---An-Ecommerce-Project)  
+### Freelance Full-Stack Developer | Self-Employed  
+*January 2024 – Present*  
+- **[visitmunroeisland (Ongoing)](https://www.visitmunroeisland.com)**: Actively developing an SEO-optimized eco-tourism platform using **Next.js**, featuring a dedicated admin dashboard, live booking systems, and package listings (improved client booking efficiency by 80%).  
+- **[Blossom Beauty Parlour](https://www.blossommakeupstudio.in)**: Developed a business website using **Next.js**, featuring service showcases and user inquiry forms (increased digital customer inquiries by 40%).  
 
 ---
 
-## Experience  
+## 🚀 Key Projects  
 
-### Self-Employed Developer  
-*2023 - Present*  
-- Collaborated with experienced professionals to refine code quality and implement features.  
-- Managed multiple projects, delivering on time while incorporating feedback for continuous improvement.  
+### [Scissors - Salon Service & Booking Platform](https://github.com/Sagarsunil16/Scissors---A-salon-Service)  
+*January 2025 – March 2025*  
+- **Tech Stack**: React.js, Node.js, Express.js, MongoDB Atlas, WebRTC, Socket.io, Stripe  
+- **Features**: Dynamic slot booking system, location-based salon discovery, real-time chat/video consultations, and secure Stripe payment integration.  
+
+### [Sneakerhead - E-commerce Platform](https://github.com/Sagarsunil16/Sneakerhead---An-Ecommerce-Project)  
+*September 2024 – October 2024*  
+- **Tech Stack**: Node.js, Express.js, MongoDB Atlas, AWS, Nginx  
+- **Features**: Full-stack e-commerce solution with dynamic product listings, comprehensive admin inventory dashboard, and a referral rewards system.  
 
 ---
 
-## Education  
+## 🎓 Education  
 **Bachelor of Computer Applications (BCA)**  
 Kerala University, 2020–2023  
 
-**MERN Stack Bootcamp**  
-*2023*  
-Intensive training in full-stack development, agile methodologies, and modern web technologies.  
-
 ---
 
-## GitHub Insights  
+## 📊 GitHub Insights  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sagarsunil16&show_icons=true&theme=light&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarsunil16&layout=compact&theme=light&hide_border=true)  
-
----
-
-## Let’s Connect  
-I’m eager to contribute to innovative projects and dynamic teams. Reach out via [email](mailto:sagarsunil16@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/sagarsunil).  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarsunil16&layout=compact&theme=light&hide_border=true)
