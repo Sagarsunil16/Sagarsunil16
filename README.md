@@ -71,37 +71,14 @@ Full-stack e-commerce platform with admin inventory management and referral rewa
 ## GitHub Stats
 
 <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Sagarsunil16&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Sagarsunil16&show_icons=true&theme=default&hide_border=true&rank_icon=github"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      height="170"
-      src="https://github-readme-stats.vercel.app/api?username=Sagarsunil16&show_icons=true&theme=default&hide_border=true&rank_icon=github"
-      alt="GitHub Stats"
-    />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarsunil16&layout=compact&langs_count=8&theme=dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarsunil16&layout=compact&langs_count=8&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarsunil16&layout=compact&langs_count=8&theme=default&hide_border=true"
-      alt="Top Languages"
-    />
-  </picture>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sagarsunil16&theme=github_dark"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sagarsunil16&theme=github_dark"
+    alt="Top Languages"
+  />
 </p>
 
 ---
